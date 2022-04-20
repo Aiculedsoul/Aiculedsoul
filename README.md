@@ -140,6 +140,7 @@ Type escape sequence to abort.
 Sending 5, 100-byte ICMP Echos to 10.0.0.2, timeout is 2 seconds:
 !!!!!
 Success rate is 100 percent (5/5), round-trip min/avg/max = 0/0/0 ms
+
 __*Проверяю доступность свитча, через терминал виртуального ПК:*__
 
 ![This is a alt text.](https://github.com/Aiculedsoul/Aiculedsoul/blob/main/Terminal.JPG?raw=true)
