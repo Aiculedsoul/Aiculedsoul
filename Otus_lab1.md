@@ -78,7 +78,11 @@ __*1: На интерфейс*__ console-0
 SW1(config)#line console 0
 
 SW1(config-line)#password cisco
-
+  
+SW1(config-line)#login
+  
+SW1#copy running-config startup-config
+  
 __*2: На привилегированный режим:*__
 
 ctrl+z
@@ -143,4 +147,4 @@ Success rate is 100 percent (5/5), round-trip min/avg/max = 0/0/0 ms
 
 __*Проверяю доступность свитча, через терминал виртуального ПК:*__
 
-![This is a alt text.](https://github.com/Aiculedsoul/Aiculedsoul/blob/main/Terminal.JPG?raw=true)
+![This is a alt text.](https://github.com/Aiculedsoul/Aiculedsoul/blob/main/login.JPG?raw=true)
