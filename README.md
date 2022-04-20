@@ -17,6 +17,8 @@
 
 </details>
 
+![This is a alt text.](https://github.com/Aiculedsoul/Aiculedsoul/blob/main/pic.JPG?raw=true")
+
 ## Таблица ip адресов
 
 | Устройство  |Интерфейс подключения ip/mask |
