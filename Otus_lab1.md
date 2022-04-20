@@ -80,6 +80,8 @@ SW1(config)#line console 0
 SW1(config-line)#password cisco
   
 SW1(config-line)#login
+
+__*Сохраняю конфигурацию на всякий случай*__
   
 SW1#copy running-config startup-config
   
